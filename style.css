@@ -1,0 +1,58 @@
+h1{
+    text-align:center;
+    color:turquoise;
+    font-size:35px;
+}
+body{
+    font-family: sans-serif;
+}
+h2{
+    color:mediumspringgreen;
+    text-align:center;
+}
+header{
+    padding-bottom: 7px;
+    background:red;
+}
+.kvati{
+    width: 180px;
+    height: 100px;
+
+}
+p{
+    color:rgb(41, 216, 108);
+}
+.hi{
+    width: 120px;
+    height: 100px;
+}
+.hello{
+    width: 120px;
+    height: 120px;
+}
+.ilovefeet{
+    width: 190px;
+    height: 120px;
+}
+.niga{
+    color:midnightblue;
+    text-decoration: none;
+    border:1px solid lawngreen;
+    background-color: lawngreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+table{
+    border:2px solid mediumaquamarine;
+    border-collapse: collapse;
+}
+td{
+    color:lawngreen;
+    border:2px solid mediumaquamarine
+}
+footer {
+    background:red;
+}
+main {
+    background:pink;
+}
